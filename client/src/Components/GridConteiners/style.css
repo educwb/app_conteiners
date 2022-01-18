@@ -1,0 +1,7 @@
+.gridConteiner {
+  display: flex;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: center;
+  margin: 0 auto;
+}

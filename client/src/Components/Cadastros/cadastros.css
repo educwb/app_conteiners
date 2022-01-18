@@ -1,0 +1,44 @@
+
+.conteiner {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.conteiner-fields {
+  padding: 10px 40px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.conteiner-title {
+  text-align: center;
+  margin-bottom: 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.input-fields {
+  display: block;
+  width: 135px;
+  padding: 7px;
+  margin: 10px auto;
+}
+
+.select-fields {
+  display: block;
+  width: 100%;
+  padding: 7px;
+  margin: 10px auto;
+}
+
+.entrada-saida {
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+  margin: 5px auto;
+}
+
+.btn-cadastrar {
+  padding: 2px 5px;
+}

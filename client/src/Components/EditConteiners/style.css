@@ -1,0 +1,30 @@
+.conteiner-edit{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  background: rgba(0, 0, 0, 0.747);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.conteiner-edit .form{
+  width: 40%;
+  background: white;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+.conteiner-edit .form select{
+  width: 30%;
+}
+
+.conteiner-edit .form button{
+  margin: 5px;
+  background: black;
+  color: white;
+}
